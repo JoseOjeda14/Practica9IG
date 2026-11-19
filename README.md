@@ -20,7 +20,7 @@ Para lograr la ilusión óptica de absorción y profundidad sin que los elemento
 
 
 
-https://github.com/user-attachments/assets/59886b0e-4261-425a-b649-26ae019f6f83
+https://github.com/user-attachments/assets/77da6c7d-ef18-4ed5-8449-b5ac501bced7
 
 
 
@@ -36,7 +36,10 @@ precision mediump float;uniform vec2 u_resolution;uniform float u_time;void main
 
 ```
 
-https://github.com/user-attachments/assets/66a8f2f9-42f6-40f2-9170-97c4f8755094
+
+https://github.com/user-attachments/assets/3911ccf5-d3e7-4a0f-b26f-ca0fcca75e94
+
+
 
 ---
 
