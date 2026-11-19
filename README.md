@@ -44,6 +44,10 @@ https://github.com/user-attachments/assets/66a8f2f9-42f6-40f2-9170-97c4f8755094
 
 Además de la escena principal del vórtice (script_32_shader_mousetime.js), el proyecto incluye una segunda implementación en src/codigoplanetas.js sobre el sistema solar completo:Color Dinámico según Posición (X, Y): A medida que los planetas describen sus órbitas alrededor del Sol, sus coordenadas espaciales (x, y) se normalizan respecto al radio máximo de su órbita para modular dinámicamente los canales de color RGB en tiempo real, o mediante ShaderMaterial leyendo la posición mundial vWorldPos. De este modo, cada planeta varía su tonalidad cromática en función del cuadrante orbital en el que se encuentre.
 
+
+https://github.com/user-attachments/assets/4d0c8f4e-b35b-4877-a192-bd11e7bfd207
+
+
 ## Uso de IA
 
 Se ha utilizado IA como herramienta de apoyo para comprimir el código GLSL de la versión de The Book of Shaders, logrando cumplir con la restricción de tamaño Tiny Code.
